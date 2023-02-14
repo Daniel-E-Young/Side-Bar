@@ -85,5 +85,11 @@ ul li{
  .side-nav:hover{
     width: 250px;
  }
+ .side-nav:hover .user div{
+    display: block;
+ }
+ .side-nav:hover .user{
+    width: 100%;
+ }
 
 
