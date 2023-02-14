@@ -33,4 +33,13 @@
     padding: 10px;
     border-radius: 8px;
     margin-left: auto;
+    margin-right: auto;
+}
+.user h2{
+    font-size: 15px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+.user-img{
+    
 }
