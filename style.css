@@ -30,4 +30,7 @@
     justify-content: space-between;
     width: 100%;
     font-size: 12px;
+    padding: 10px;
+    border-radius: 8px;
+    margin-left: auto;
 }
