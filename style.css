@@ -63,4 +63,8 @@ ul li{
     cursor: pointer;
 }
 
- 
+ ul li img{
+    width: 30px;
+    margin-right: 10px;
+    
+ }
