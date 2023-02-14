@@ -31,12 +31,16 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 100%;
+    width: 60px;
     font-size: 12px;
     padding: 10px;
     border-radius: 8px;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
+}
+.user div{
+    display: none;
 }
 .user h2{
     font-size: 15px;
