@@ -24,3 +24,8 @@
     backdrop-filter: blur(5px);
 
 }
+.user{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
